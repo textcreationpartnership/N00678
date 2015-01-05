@@ -111,8 +111,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000823_0000_0FAB420FED295B08"/>
-            <pb facs="tcp:000823_0001_0FAB4210AF2780B0" rendition="simple:additions"/>
+            <pb facs="unknown:000823_0000_0FAB420FED295B08"/>
+            <pb facs="unknown:000823_0001_0FAB4210AF2780B0"
+                rendition="simple:additions"/>
             <p>LETTER From A Gentleman OF THE City of New-York To <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>other, Concerning the Troubles which happen'd in That Province in the Time of the late Happy REVOLUTION.</p>
@@ -121,7 +122,7 @@
       </front>
       <body>
          <div type="letter">
-            <pb n="3" facs="tcp:000823_0002_0FAB42116CE47E20"/>
+            <pb n="3" facs="unknown:000823_0002_0FAB42116CE47E20"/>
             <opener>
                <salute>SIR;</salute>
             </opener>
@@ -203,7 +204,7 @@
                </gap> ſuſpended <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="4" facs="tcp:000823_0003_0FAB42122C120F08"/>
+               <pb n="4" facs="unknown:000823_0003_0FAB42122C120F08"/>
                <hi>Bax<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>r</hi> from being a Member of Council and Captain of a Company at <hi>Albany,</hi> and <hi>Bartholomew R<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -261,7 +262,7 @@
             <p>And in the firſt place it was by them agreed and ordered, Forth-with to fortifie the City of New-York.</p>
             <p>And that for the better Security of the Fort (ſince the Garriſon was weak, and to prevent all manner of Doubts and Jealouſies) a competent Number of the City Militia ſhould keep Guard in ſaid Fort, and <hi>Nicholas Bayard,</hi> Coll. of ſaid Militia recommended to give ſuitable Orders accordingly.</p>
             <p>
-               <pb n="5" facs="tcp:000823_0004_0FAB4212EC3FC628"/>And that the Revenue ſhould be continued and received by ſome Gentlemen appointed by that Convention, for Repairing the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="5" facs="unknown:000823_0004_0FAB4212EC3FC628"/>And that the Revenue ſhould be continued and received by ſome Gentlemen appointed by that Convention, for Repairing the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ort, and Fortify<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -302,7 +303,7 @@
             <p>But againſt Expectation, it ſoon happened, that on the laſt day of ſaid Moneth of <hi>May,</hi> Capt. <hi>Leyſler</hi> having a Veſſel with ſome W<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>nes in the Road, for which he refuſed to pay the Duty, did in a Seditious manner ſtir up the meaneſt
-<pb n="6" facs="tcp:000823_0005_0FAB4213AF6E7C90"/>
+<pb n="6" facs="unknown:000823_0005_0FAB4213AF6E7C90"/>
 ſort of the Inhabitants (affirming, <hi>That King</hi> James <hi>being fled the Kingdom, all manner of Government was fallen in this Province</hi>) to riſe in Arms, and forcibly poſſeſs themſelves of the Fort and Stores, which accordingly was effected whileſt the Lieut. Governour and Council, with the Con<g ref="char:EOLhyphen"/>vention, were met at the City Hall to conſult what might be proper for the common Good and Safety; where a party of Armed Men came from the Fort, and forced the Lieut. Governour to deliver them the Keys; and ſeized alſo in his Chamber a Cheſt with <hi>Seven Hundred Seventy Three Poun<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s, Twelve Shil<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -329,7 +330,7 @@
                   </gap>necticut</hi> with a Copy of ſaid Proclamation, went <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> two days to meet them, in expectation of having the
-<pb n="7" facs="tcp:000823_0006_0FAB42146D7F5AA8"/>
+<pb n="7" facs="unknown:000823_0006_0FAB42146D7F5AA8"/>
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>appineſs to proclaim it bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -359,7 +360,7 @@
             <p>But as ſoon as thoſe Gentlemen entered upon the Office, Capt. <hi>Leyſler</hi> with a party of his Men in Arms, and Drink, fell upon them at the Cuſtom-Houſe, and with Naked Swords bea<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> them thence, endeavouring to Maſſacree ſome of them, which were Reſcued by Providence. Where<g ref="char:EOLhyphen"/>upon
-<pb n="8" facs="tcp:000823_0007_0FAB42152D7E4D20"/>
+<pb n="8" facs="unknown:000823_0007_0FAB42152D7E4D20"/>
 ſaid <hi>Leyſler</hi> beat an Alarm, crying about the City, <hi>Treaſon<g ref="char:punc">▪</g> Treaſon,</hi> and made a ſtrict ſearch to ſeize Coll. <hi>Bay<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>rd,</hi> who made his eſcape, and departed for <hi>Albany,</hi> where he ſtaid all Summer<g ref="char:punc">▪</g> in hopes that Orders might arrive from <hi>England</hi> to <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -386,7 +387,7 @@
                </gap>. <hi>John R<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ggs</hi> from <hi>England,</hi> with Letters from his Ma<g ref="char:EOLhyphen"/>jeſty and the Lords, in anſwer to the Letters ſent by the Lieut. Governour and Council above recited, Directed, <hi>To Our Truſty and Well-beloved</hi> Francis Nicholſon, <abbr>Esq</abbr>
-               <pb facs="tcp:000823_0008_0FAB4216DCDAFA68"/>
+               <pb facs="unknown:000823_0008_0FAB4216DCDAFA68"/>
                <hi>Our Lieutenant Governour and Commander in chief of Ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Pro<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -473,7 +474,7 @@
                </gap>y in <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>
-               <pb n="10" facs="tcp:000823_0009_0FAB42176EA2C050"/>
+               <pb n="10" facs="unknown:000823_0009_0FAB42176EA2C050"/>
                <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> the F<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -529,7 +530,7 @@
                </gap> the <hi>Proteſtant M<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>niſters</hi> in the Province eſcape their Malice and Cruelty; for Mr. <hi>Selyns,</hi> Miniſter
-<pb n="11" facs="tcp:000823_0010_0FAB42182D665080"/>
+<pb n="11" facs="unknown:000823_0010_0FAB42182D665080"/>
 of <hi>New-York,</hi> was moſt groſly abuſed by <hi>Leyſler</hi> himſelf i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> the Church at the time of Divine Service, and threatned to be ſilenced, <hi>&amp;c.</hi> Mr. <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -579,7 +580,7 @@ of <hi>New-York,</hi> was moſt groſly abuſed by <hi>Leyſler</hi> himſelf i<
                </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>r found
-<pb n="12" facs="tcp:000823_0011_0FAB4218ED2338B8"/>
+<pb n="12" facs="unknown:000823_0011_0FAB4218ED2338B8"/>
 out, that whole Cargo's of thoſe ſtolen goods were ſold to his Friends in the City, and ſhipt off for the Weſt-Indies and elſe where.</p>
             <p>In this manner he the ſaid <hi>Leyſler,</hi> with his Accomplices, did force, p<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
@@ -615,7 +616,7 @@ out, that whole Cargo's of thoſe ſtolen goods were ſold to his Friends in the
                </gap>; but the ſaid <hi>Leyſler,</hi> inſtead of complying, asked Mr. <hi>Brooke</hi>
                <g ref="char:punc">▪</g> one of his Majeſties Council<g ref="char:punc">▪</g> 
                <hi>Who were appointed of the Council in this Province?</hi>
-               <pb n="13" facs="tcp:000823_0012_0FAB4219E4DC4F50"/>
+               <pb n="13" facs="unknown:000823_0012_0FAB4219E4DC4F50"/>
 and Mr. <hi>Brooke</hi> having named Mr. <hi>Phillips,</hi> Coll. <hi>Cortland</hi> &amp; Coll <hi>Bayard,</hi> he fell into a Paſſion, &amp; cry'd, <hi>What! thoſe</hi> Papiſt <hi>Dogs Rogues Sacrament if the King ſhould ſend Three Thouſand ſuch I would cut them all off</hi>; And without any cauſe given, he proclaimed ope<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> War againſt them. Whereupon, they, for Self-preſervation, protection of the K<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -646,7 +647,7 @@ and Mr. <hi>Brooke</hi> having named Mr. <hi>Phillips,</hi> Coll. <hi>Cortland</
                   <desc>〈◊〉</desc>
                </gap> hearings, as Mutes, were found guilty of High Treaſon and Murder, and executed accordingly.</p>
             <p>
-               <pb n="14" facs="tcp:000823_0013_0FAB421B9FA0B1E8"/>Several of the other Malefactors that pleaded <gap reason="illegible" resp="#PDCC" extent="1 word">
+               <pb n="14" facs="unknown:000823_0013_0FAB421B9FA0B1E8"/>Several of the other Malefactors that pleaded <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> 
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -683,7 +684,7 @@ and Mr. <hi>Brooke</hi> having named Mr. <hi>Phillips,</hi> Coll. <hi>Cortland</
                   <desc>•</desc>
                </gap>ntence was ſince approved by Her Majeſty, of ever bleſſed Memory, in Council.</p>
             <p>Many worthy <hi>Proteſtants</hi> in <hi>England,</hi> and other parts
-<pb n="15" facs="tcp:000823_0014_0FAB421BEC10E628"/>
+<pb n="15" facs="unknown:000823_0014_0FAB421BEC10E628"/>
 of the world, being ſincerely devoted to his Majeſties In<g ref="char:EOLhyphen"/>tereſt, have yet notwithstanding (unacquainted with our Circumſtances, and not duely apprized of the truth) been more eaſily induced to give credit to the falſe Gloſſes and Calumnies of byaſſed and diſaffected Perſons from this Province. But in my Obſervation, moſt Gentlemen that have come hither ſo prepoſſeſſed, after ſome time ſpent here, have been thorow<g ref="char:punc">▪</g> convinced of their Miſtake, and that thoſe men who ſuffered Death, did not from pure zeal for their Majeſties Intereſt, and the <hi>Proteſtant Religion,</hi> but being of deſperate Fortune, thruſt themſelves into Power, of purpoſe to make up their wants by the Ruin and Plunder of his Majeſties Loyal Subjects, and were ſo far engaged in their repeated Crimes, that they were driven to that height of Deſperation, had not the Providence of Almighty God prevented it, the whole Province had been Ruined and D<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ſtroyed.</p>
@@ -695,7 +696,7 @@ of the world, being ſincerely devoted to his Majeſties In<g ref="char:EOLhyphe
                   <desc>•</desc>
                </gap>my, which, under God, is due to the prudent and ſteady Conduct and great Care and Diligence of Coll. <hi>Fletcher,</hi> our preſent Governour.</p>
             <p>
-               <pb n="16" facs="tcp:000823_0015_0FAB421CB4AFABC0"/>You have been an Eye<g ref="char:punc">▪</g>Wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="16" facs="unknown:000823_0015_0FAB421CB4AFABC0"/>You have been an Eye<g ref="char:punc">▪</g>Wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>eſs, and have had Time and Experience enough to enable you to inform others in <hi>England,</hi> which if you will pleaſe to do<g ref="char:punc">▪</g> I doubt not but it will gain Credit, and be an extraordinary piece of Service to this Province. I am,</p>
             <closer>
@@ -709,7 +710,7 @@ of the world, being ſincerely devoted to his Majeſties In<g ref="char:EOLhyphe
             </closer>
          </div>
          <div type="letter">
-            <pb n="17" facs="tcp:000823_0016_0FAB421D6EA930C0"/>
+            <pb n="17" facs="unknown:000823_0016_0FAB421D6EA930C0"/>
             <head>The KING's Letter.</head>
             <opener>
                <signed>VVilliam R.</signed>
@@ -721,7 +722,7 @@ of the world, being ſincerely devoted to his Majeſties In<g ref="char:EOLhyphe
                </gap>lling to your Aſſiſtance, in the Administration thereof, the principal Free-holders and Inhabitants of the ſame, or ſo many of them as you ſhall think fit, Willing and Requiring you to do and perform all things which to the Place and Office of Our Lieutenant Governour and Commander in Chief of Our Province of <hi>New-York,</hi> doth or may appertain, as you ſhall find neceſſary for Our S<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>rvice, and the good of Our Subjects, according to the Laws and
-<pb n="18" facs="tcp:000823_0017_0FAB421E2D487BC8"/>
+<pb n="18" facs="unknown:000823_0017_0FAB421E2D487BC8"/>
 Cuſtoms of Our ſaid Province, until further Order from <g ref="char:V">Ʋ</g>s. And ſo We bid you Farewell. Given at Our Court at <hi>White-hall</hi> the <hi>30</hi>th Day of <hi>July, 1689.</hi> in the firſt Year of Our Reign.</p>
             <closer>
                <signed>
@@ -739,7 +740,7 @@ Our Lieut. Governour and Commander in Chief of Our Province of <hi>New-York</hi>
             </postscript>
          </div>
          <div type="resolutions">
-            <pb facs="tcp:000823_0018_0FAB421EEC5C4ED8"/>
+            <pb facs="unknown:000823_0018_0FAB421EEC5C4ED8"/>
             <head>The Reſolves of the Houſe of Repre<g ref="char:EOLhyphen"/>ſentatives, &amp;c.</head>
             <head type="sub">Houſe of Repreſentatives for the Province of <hi>New-York,</hi>
                <date>April 17. 1691.</date> P. M.</head>
@@ -767,7 +768,7 @@ Our Lieut. Governour and Commander in Chief of Our Province of <hi>New-York</hi>
                   <desc>•</desc>
                </gap>ghts and Priviledges of Their Majeſties Subjects inhabiting within this Province.</p>
             <p>
-               <pb n="20" facs="tcp:000823_0019_0FAB421FACF14790"/>
+               <pb n="20" facs="unknown:000823_0019_0FAB421FACF14790"/>
                <hi>Reſolved,</hi>
             </p>
             <p>That the proſecuting and <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -810,7 +811,7 @@ Our Lieut. Governour and Commander in Chief of Our Province of <hi>New-York</hi>
                <hi>Reſolved,</hi>
             </p>
             <p>That the raiſing of Forces, and keeping their Majeſties Fort of <hi>New-York</hi> againſt their Majeſties Officers and Souldiers lately arrived, was Rebellious, and in pre<g ref="char:EOLhyphen"/>judice
-<pb n="21" facs="tcp:000823_0020_0FAB42206D392600"/>
+<pb n="21" facs="unknown:000823_0020_0FAB42206D392600"/>
 to their Majeſties Right and Dominion of this Province.</p>
             <p>
                <hi>Reſolved,</hi>
@@ -832,7 +833,7 @@ to their Majeſties Right and Dominion of this Province.</p>
             </closer>
          </div>
          <div type="address">
-            <pb n="22" facs="tcp:000823_0021_0FAB42213134A248"/>
+            <pb n="22" facs="unknown:000823_0021_0FAB42213134A248"/>
             <head>An Addreſs to his Excellency Collonel Slaughter.</head>
             <opener>
                <salute>May it pleaſe your Excellency;</salute>
@@ -853,7 +854,7 @@ to their Majeſties Right and Dominion of this Province.</p>
                   <desc>•</desc>
                </gap> by their Majeſties Authority, which is now placed in your Excellency. And therefore we do ſolemnly declare, That we will with our Lives and Fortunes ſupport and maintain the Adminiſtration of your Excellency's Government, under their Majeſties, againſt all their Majeſties Enemies whatſoever.</p>
             <p>And this we humbly pray your Excellency to accept as the ſincere Acknowledgment of all their Majeſties good Subjects within this their Province, praying for their Majeſties long and happy Reign over us, and that your
-<pb facs="tcp:000823_0022_0FAB4221EC6802F0"/>
+<pb facs="unknown:000823_0022_0FAB4221EC6802F0"/>
 Excellency may long Live and Rule us, according to Their Majeſties moſt excellent Conſtitution of Govern<g ref="char:EOLhyphen"/>ing his Subjects by a General Aſſembly.</p>
             <closer>
                <signed>
@@ -868,7 +869,7 @@ Excellency may long Live and Rule us, according to Their Majeſties moſt excell
 <date>17th of <hi>March,</hi> 1691.</date>
 PRESENT The Queens moſt Excellent Majeſty in Council.</head>
             <p>WHereas the Right Honourable, the Lords of the Committee for Trade and Plantations, have by their Report, dated the 11th Inſtant, repreſented to Her Majeſty, That they have examin'd the matter of the Petition of <hi>Jacob Leyſter,</hi> the Son of <hi>Jacob Leyſter</hi> of <hi>New-York,</hi> de<g ref="char:EOLhyphen"/>ceaſed, referred to the Committee by Her Majeſty's Order in Coucil of the 7th of <hi>January</hi> laſt, Complaining of Pro<g ref="char:EOLhyphen"/>ceedings againſt his Father and <hi>Jacob Milbourn,</hi> by Coll. <hi>Slaughter</hi> at <hi>New-York,</hi> who were thereupon condemned and put to Death, and their Eſtates confiſcated. And their Lordſhips having fully heard the ſaid <hi>Jacob Leyſter,</hi> the Petitioner, by his Council learned, upon the whole matter, are humbly of Opinion, That the ſaid <hi>Jacob Leyſter</hi> and
-<pb facs="tcp:000823_0023_0FAB4222AC53D6E0"/>
+<pb facs="unknown:000823_0023_0FAB4222AC53D6E0"/>
                <hi>Jacob Milbourn,</hi> deceaſed, <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> condemned &amp; <gap reason="illegible" resp="#PDCC" extent="1 word">
